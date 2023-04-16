@@ -105,22 +105,64 @@
   ],
   "RUN_TIME": [
     {
-      "ID": "T3",
+      "ID": "T1",
       "ALOC": "HCM",
-      "DLOC": "HCM",
-      "TIME": "20:30HR"
+      "DLOC": "HUE",
+      "TIME": "6:00HR"
+    },
+    {
+      "ID": "T2",
+      "ALOC": "HN",
+      "DLOC": "HUE",
+      "TIME": "6:00HR"
     },
     {
       "ID": "T3",
-      "ALOC": "HCM",
+      "ALOC": "ĐN",
       "DLOC": "HCM",
-      "TIME": "20:30HR"
+      "TIME": "5:00HR"
     },
     {
-      "ID": "T3",
+      "ID": "T4",
+      "ALOC": "ĐN",
+      "DLOC": "HN",
+      "TIME": "7:00HR"
+    },
+    {
+      "ID": "T5",
       "ALOC": "HCM",
-      "DLOC": "HCM",
-      "TIME": "20:30HR"
+      "DLOC": "HN",
+      "TIME": "12:00HR"
+    },
+    {
+      "ID": "T6",
+      "ALOC": "HCM",
+      "DLOC": "HP",
+      "TIME": "12:00HR"
+    },
+    {
+      "ID": "T7",
+      "ALOC": "HN",
+      "DLOC": "ĐN",
+      "TIME": "10:00HR"
+    },
+    {
+      "ID": "T8",
+      "ALOC": "HCM",
+      "DLOC": "ĐN",
+      "TIME": "5:00HR"
+    },
+    {
+      "ID": "T9",
+      "ALOC": "HCM",
+      "DLOC": "KH",
+      "TIME": "5:00HR"
+    },
+    {
+      "ID": "T10",
+      "ALOC": "HN",
+      "DLOC": "KH",
+      "TIME": "11:00HR"
     }
   ]
 }
