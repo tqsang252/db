@@ -54,18 +54,53 @@
   "DTIME": [
     {
       "ID": "T1",
-      "LOC": "HUE",
-      "TIME": "16:00HR"
+      "LOC": "HCM",
+      "TIME": "10:00HR"
     },
     {
       "ID": "T2",
-      "LOC": "HUE",
-      "TIME": "18:30HR"
+      "LOC": "HN",
+      "TIME": "12:30HR"
     },
     {
       "ID": "T3",
+      "LOC": "ĐN",
+      "TIME": "15:30HR"
+    },
+    {
+      "ID": "T4",
+      "LOC": "ĐN",
+      "TIME": "9:00HR"
+    },
+    {
+      "ID": "T5",
       "LOC": "HCM",
-      "TIME": "20:30HR"
+      "TIME": "4:30HR"
+    },
+    {
+      "ID": "T6",
+      "LOC": "HCM",
+      "TIME": "9:45HR"
+    },
+    {
+      "ID": "T7",
+      "LOC": "HN",
+      "TIME": "9:30HR"
+    },
+    {
+      "ID": "T8",
+      "LOC": "HCM",
+      "TIME": "8:30HR"
+    },
+    {
+      "ID": "T9",
+      "LOC": "HCM",
+      "TIME": "15:45HR"
+    },
+    {
+      "ID": "T10",
+      "LOC": "HN",
+      "TIME": "9:00HR"
     }
   ],
   "RUN_TIME": [
