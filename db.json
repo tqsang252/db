@@ -14,6 +14,41 @@
       "ID": "T3",
       "LOC": "HCM",
       "TIME": "20:30HR"
+    },
+    {
+      "ID": "T4",
+      "LOC": "HN",
+      "TIME": "16:00HR"
+    },
+    {
+      "ID": "T5",
+      "LOC": "HN",
+      "TIME": "16:30HR"
+    },
+    {
+      "ID": "T6",
+      "LOC": "HP",
+      "TIME": "21:45HR"
+    },
+    {
+      "ID": "T7",
+      "LOC": "ĐN",
+      "TIME": "19:30HR"
+    },
+    {
+      "ID": "T8",
+      "LOC": "ĐN",
+      "TIME": "13:30HR"
+    },
+    {
+      "ID": "T9",
+      "LOC": "KH",
+      "TIME": "20:45HR"
+    },
+    {
+      "ID": "T10",
+      "LOC": "KH",
+      "TIME": "20:00HR"
     }
   ],
   "DTIME": [
